@@ -1,4 +1,4 @@
-- 👋 Bonjour à tous ! Je suis Antoine DUBUC ou DubDubToinou :) 
+- 👋 Bonjour à tous ! Je suis Antoine DUBUC.
 
 - 👀 / PHP / Symfony / React / React Native
 
